@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c682fbe5-190b-470b-8159-f068d69bb8cc" name="Default Changelist" comment="" />
+    <list default="true" id="c682fbe5-190b-470b-8159-f068d69bb8cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/_media/image/null.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/Ask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/ProfileManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/components/inboxDM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/sns-react/src/context/ApiContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +37,14 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eZKuFjfMbaW4mWZe10YyBev9B1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -31,7 +52,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/_media/image" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,11 +83,26 @@
       <option name="presentableId" value="Default" />
       <updated>1594523895394</updated>
       <workItem from="1594523896582" duration="64000" />
-      <workItem from="1594523980990" duration="6683000" />
+      <workItem from="1594523980990" duration="11998000" />
+      <workItem from="1594883500038" duration="6989000" />
+      <workItem from="1595050236225" duration="16131000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
